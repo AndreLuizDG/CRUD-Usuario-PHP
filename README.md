@@ -36,9 +36,3 @@ Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em P
 - Servidor Web (como XAMPP, WAMP ou LAMP)
 - PHP 7.0 ou superior
 - Banco de dados MySQL (ou outro compatível)
-
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/crud-php.git
