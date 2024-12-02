@@ -1,26 +1,19 @@
-# Sistema CRUD em PHP
+<h1 align="center"> Sistema CRUD em PHP </h1>
+## :memo: Descrição
+Foram desenvolvidas as funcionalidades de cadastro, listagem, edição e exclusão de usuários. O cadastro permitia o registro de novos usuários no sistema, enquanto a listagem exibia todos os usuários cadastrados. A funcionalidade de edição possibilitava a atualização dos dados, garantindo que as informações estivessem sempre atualizadas. Além disso, a exclusão permitia a remoção permanente dos registros de usuários, assegurando um gerenciamento completo e eficiente
 
-Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em PHP para gerenciamento de usuários e produtos. Ele fornece funcionalidades básicas para cadastrar, listar, editar e excluir registros, sendo ideal para fins educacionais ou como base para sistemas mais complexos.
-
-## Funcionalidades
-
+## :books: Funcionalidades
 - **Usuários**
   - Cadastro de usuários
   - Listagem de usuários
   - Edição de informações do usuário
   - Exclusão de usuários
 
-- **Produtos**
-  - Cadastro de produtos
-  - Listagem de produtos
-  - Edição de informações do produto
-  - Exclusão de produtos
 
-## Tecnologias Utilizadas
-
-- PHP
-- HTML/CSS com **Bootstrap** para estilização
-- Estrutura modular para organização do código
+## :wrench: Tecnologias utilizadas
+<div style="display: inline_block"><br>
+    <img src="./.readme/TecnologiasUtilizadas.png" align="center" alt="Tecnologias Utilizadas" width="150" src="">
+</div>
 
 ## Estrutura do Projeto
 
@@ -31,8 +24,12 @@ Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido em P
 - `excluirUsuario.php`: Tela para exclusão de usuários
 - E mais arquivos relacionados à funcionalidade CRUD para produtos.
 
-## Requisitos
+## 📷 Preview
+##
+<img src=".readme/CadastroDeNovoUsuário.png" alt="Cadastro De Novo Usuário" width="600px">
+<img src=".readme/ListagemDeUsuários.png" alt="Listagem de Usuários" width="600px">
 
-- Servidor Web (como XAMPP, WAMP ou LAMP)
-- PHP 7.0 ou superior
-- Banco de dados MySQL (ou outro compatível)
+## 🧑‍🏫 Aprendizados
+Desenvolvendo este projeto, aprendi uma série de habilidades valiosas. Trabalhar com PHP e MySQL permitiu que eu compreendesse a fundo a manipulação de dados, criando, lendo, atualizando e excluindo informações em um banco de dados, além de entender como a interação entre backend e banco de dados se dá na prática.
+
+Outro ponto importante foi o aprendizado sobre o gerenciamento de estado e a lógica por trás das funcionalidades, como o cadastro e a edição de usuários. Cada etapa demandou atenção para garantir que as operações ocorressem da maneira esperada, com validações adequadas, permitindo um fluxo correto do sistema. Ao trabalhar na interface web, também aprimorei minhas habilidades em criar uma boa experiência de usuário, garantindo que todas as funcionalidades estivessem facilmente acessíveis e fossem intuitivas.
