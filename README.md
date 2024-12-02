@@ -23,7 +23,6 @@ Foram desenvolvidas as funcionalidades de cadastro, listagem, edição e exclus�
 - `listarUsuarios.php`: Tela para listar todos os usuários cadastrados
 - `editarUsuario.php`: Função para editar usuários existentes
 - `excluirUsuario.php`: Tela para exclusão de usuários
-- E mais arquivos relacionados à funcionalidade CRUD para produtos.
 
 ## 📷 Preview
 
